@@ -31,20 +31,20 @@ A simple **MERN stack** project to demonstrate backend CRUD operations for a boo
 ## API Endpoints
 
 - **Books**
-   -*POST /books → Add a new book*
-   -*GET /books → Get all books*
-   -*PUT /books/:id → Update book details*
-   -*DELETE /books/:id → Delete a book*
+   - *POST /books → Add a new book*
+   - *GET /books → Get all books*
+   - *PUT /books/:id → Update book details*
+   - *DELETE /books/:id → Delete a book*
 
 - **Authors**
-   -*POST /authors*
-   -*GET /authors*
-   -*PUT /authors/:id*
-   -*DELETE /authors/:id*
+   - *POST /authors*
+   - *GET /authors*
+   - *PUT /authors/:id*
+   - *DELETE /authors/:id*
 
 - **Publishers**
-   -*POST /publishers*
-   -*GET /publishers*
-   -*PUT /publishers/:id*
-   -*DELETE /publishers/:id*
+   - *POST /publishers*
+   - *GET /publishers*
+   - *PUT /publishers/:id*
+   - *DELETE /publishers/:id*
 
