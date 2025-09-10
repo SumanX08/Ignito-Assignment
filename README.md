@@ -1,4 +1,4 @@
-# 📚 Bookstore Management App
+#  Bookstore Management App
 
 A simple **MERN stack** project to demonstrate backend CRUD operations for a bookstore system.  
 
@@ -17,7 +17,7 @@ A simple **MERN stack** project to demonstrate backend CRUD operations for a boo
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
